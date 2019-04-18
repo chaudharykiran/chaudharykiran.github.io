@@ -1,4 +1,4 @@
-This site moved to: (https://chaudharykiran.netlify.com/)
+This site moved [here](https://chaudharykiran.netlify.com/)
 
 Hello World
 
