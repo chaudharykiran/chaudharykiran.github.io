@@ -7,5 +7,6 @@ template: "page"
 Email: hellokiran2020@gmail.com
 </div>
 <div>
-Whatsapp: +977 9842878755
+Whatsapp: +81 080-2372-3062, +977 9842878755
+Viber: +81 080-2372-3062
 </div>
